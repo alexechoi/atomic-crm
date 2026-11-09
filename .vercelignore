@@ -1,0 +1,11 @@
+.env*
+.git
+node_modules
+dist
+doc
+test-data
+/supabase/
+.claude
+e2e
+playwright
+DEPLOYMENT.md
